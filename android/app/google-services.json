@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "658111546940",
+    "project_id": "health-spot-f9c15",
+    "storage_bucket": "health-spot-f9c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658111546940:android:c8587af8b98a248926e539",
+        "android_client_info": {
+          "package_name": "com.example.medical_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658111546940-75ufhrqa3m2664b08s1ik7d310iinol1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-T0plhNhGsGY8TkjyPNuCECol-H1DP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658111546940-75ufhrqa3m2664b08s1ik7d310iinol1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658111546940-4ho1frosca01qtdb0lialmmosi39o6oi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medicalCare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
